@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Rubic";
+    src: url(../fonds/Rubik-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Rubic";
+    src: url(../fonds/Rubik-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Rubic";
+    src: url(../fonds/Rubik-Light.ttf);
+    font-weight: 300;
+}
